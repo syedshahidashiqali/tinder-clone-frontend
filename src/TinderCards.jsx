@@ -23,11 +23,15 @@ function TinderCards() {
         },
         {
             name: "Dua Lipa",
-            url: "https://www.thenews.com.pk/assets/uploads/updates/2020-11-15/744227_1659281_dua-lipa_updates.jpg"
+            url: "https://assets.vogue.com/photos/5f48136693122510d16f0352/4:3/w_1080,h_810,c_limit/118520052_586967341971321_6121798062289952442_n.jpg"
         },
         {
-            name: "Anne Marie",
-            url: "https://cdn.vox-cdn.com/thumbor/gg5VmBhJcsnFMUsMIrl7PErJHZM=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/15958974/akrales_180920_2848_0016_2.jpg"
+            name: "Pitbull",
+            url: "https://vz.cnwimg.com/wp-content/uploads/2010/03/Pitbull.jpg"
+        },
+        {
+            name: "Ellen",
+            url: "https://www.geo.tv/assets/uploads/updates/2021-03-18/340307_5260100_updates.jpg"
         },
         {
             name: "Bill Gates",
@@ -36,7 +40,16 @@ function TinderCards() {
         {
             name: "Taylor Swift",
             url: "https://static.onecms.io/wp-content/uploads/sites/20/2020/12/02/taylor-swift1.jpg"
-        }
+        },
+        {
+            name: "Engin Altan",
+            url: "https://www.incpak.com/wp-content/uploads/2020/09/50094085_2224186024567959_693900883193935752_n.jpg"
+        },
+        {
+            name: "Esra Bilgic",
+            url: "https://i.dawn.com/large/2021/01/6007fbceb61de.png"
+        },
+        
     ]);
 
     const swiped = (direction, nameToDelete) => {
