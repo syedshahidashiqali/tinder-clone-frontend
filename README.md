@@ -1,5 +1,17 @@
 # Getting Started with Create React App
 
+### This is fullstack app, created using MERN Stack(MongoDB, ExpressJS, ReactJS, NodeJS).
+
+## You can view this project by the link mentioned below:
+### [http://tinder-clone-by-shahid.surge.sh/](http://tinder-clone-by-shahid.surge.sh/)
+
+## Backend code can be found at:
+### [https://github.com/syedshahidashiqali/tinder-clone-backend](https://github.com/syedshahidashiqali/tinder-clone-backend)
+
+## Backend is live at:
+### [https://tinder-clone-backend-men.herokuapp.com/](https://tinder-clone-backend-men.herokuapp.com/)
+### [https://tinder-clone-backend-men.herokuapp.com/tinder/cards](https://tinder-clone-backend-men.herokuapp.com/tinder/cards)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
